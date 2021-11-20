@@ -1,0 +1,2 @@
+# FutureFARM
+Yield Farming Dapp on the Solana Blockchain. The vision of our Dapp, is to create more interaction with Solana and the Helium blockchains. I am a support of both communities and deeply passionate on things going on within both ecosystems. At FutureFARM, you will be able to provide LPs to be rewarded. LPs to get started are USDC, USDT, HNT, SOL, RAY: HNT/USDC, HNT/USDT, SOL/WHNT, WHNT/HNT , FSLF/HNT , FSLF/SOL, RAY/SOL, 
